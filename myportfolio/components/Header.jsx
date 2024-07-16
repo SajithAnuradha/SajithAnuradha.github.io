@@ -13,9 +13,11 @@ const Header = () => {
             Sajith <span className="text-accent">.</span>
           </h1>
         </Link>
-        <div className="hidden xl:flex items-center gap-8"></div>
-        <Navbar />
-        <Link href="/contact">
+        <div className="hidden xl:flex items-center gap-8">
+          <Navbar />
+        </div>
+
+        <Link href="/contact" className="hidden xl:flex">
           <Button>Hire Me</Button>
         </Link>
         <div className="xl:hidden">
