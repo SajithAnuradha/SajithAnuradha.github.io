@@ -34,10 +34,6 @@ const about = {
       fieldName: "Email",
       fieldValue: "sajithanuradha@gmail.com",
     },
-    {
-      fieldName: "Name",
-      fieldValue: "Sajith Anuradha",
-    },
   ],
 };
 const education = {
