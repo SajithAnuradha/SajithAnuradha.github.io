@@ -35,6 +35,25 @@ const projects = [
   },
   {
     num: "02",
+    category: "Web Development",
+    title: "Mora UXplore 2.0",
+    description:
+      "Mora UXplore 2.0 is an inter-university UI/UX designathon initiated by the IEEE Student Branch of University of Moratuwa.",
+    Status: "completed",
+    stack: [
+      { name: "React" },
+      { name: "Node.js" },
+      { name: "Express.js" },
+      { name: "MySql" },
+      { name: "CSS 5" },
+      { name: "HTML 5" },
+    ],
+    image: "/assets/projects/4.1.png",
+    live: "",
+    github: "",
+  },
+  {
+    num: "03",
     category: "Mobile app development",
     title: "MediScan",
     description:
@@ -50,7 +69,7 @@ const projects = [
     github: "",
   },
   {
-    num: "03",
+    num: "04",
     category: "Mobile app development",
     title: "Mango Map",
     description:
