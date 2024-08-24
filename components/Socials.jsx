@@ -4,16 +4,16 @@ import { FaGithub, FaLinkedin, FaYoutube } from "react-icons/fa";
 const socials = [
   {
     icon: <FaGithub />,
-    path: "",
+    path: "https://github.com/SajithAnuradha",
   },
   {
     icon: <FaLinkedin />,
-    path: "",
+    path: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile",
   },
-  {
-    icon: <FaYoutube />,
-    path: "",
-  },
+  // {
+  //   icon: <FaYoutube />,
+  //   path: "",
+  // },
 ];
 
 const Socials = ({ containerStyles, iconStyles }) => {

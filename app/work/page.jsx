@@ -31,7 +31,7 @@ const projects = [
     ],
     image: "/assets/projects/1.2.JPG",
     live: "",
-    github: "",
+    github: "https://github.com/SajithAnuradha/Gift_Me",
   },
   {
     num: "02",
@@ -50,7 +50,7 @@ const projects = [
     ],
     image: "/assets/projects/4.1.png",
     live: "",
-    github: "",
+    github: "https://morauxplore.lk/",
   },
   {
     num: "03",
@@ -66,7 +66,7 @@ const projects = [
     ],
     image: "/assets/projects/2.1.jpg",
     live: "",
-    github: "",
+    github: "https://github.com/SajithAnuradha/MediScan",
   },
   {
     num: "04",
@@ -83,7 +83,7 @@ const projects = [
     ],
     image: "/assets/projects/3.1.jpg",
     live: "",
-    github: "",
+    github: "https://github.com/SajithAnuradha/Mango-Map",
   },
 ];
 
